@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.exe
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.deps.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\bin\Debug\netcoreapp3.1\T02. Exes and Ohs.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T02. Exes and Ohs\obj\Debug\netcoreapp3.1\T02. Exes and Ohs.genruntimeconfig.cache

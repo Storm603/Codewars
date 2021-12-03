@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.exe
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.deps.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\bin\Debug\netcoreapp3.1\T01. Highest and Lowest.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T01. Highest and Lowest\obj\Debug\netcoreapp3.1\T01. Highest and Lowest.genruntimeconfig.cache
