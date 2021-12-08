@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.exe
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.deps.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\bin\Debug\netcoreapp3.1\T08. Split Strings.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T08. Split Strings\obj\Debug\netcoreapp3.1\T08. Split Strings.genruntimeconfig.cache

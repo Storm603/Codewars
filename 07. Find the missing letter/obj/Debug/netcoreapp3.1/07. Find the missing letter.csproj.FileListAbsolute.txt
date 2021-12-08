@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.exe
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.deps.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\bin\Debug\netcoreapp3.1\07. Find the missing letter.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\07. Find the missing letter\obj\Debug\netcoreapp3.1\07. Find the missing letter.genruntimeconfig.cache
