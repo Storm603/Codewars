@@ -1,0 +1,13 @@
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.exe
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.deps.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\bin\Debug\netcoreapp3.1\T03. Bit Counting.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.dll
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.pdb
+C:\Users\Kristiyan\source\repos\CodeWarsBeginning\T03. Bit Counting\obj\Debug\netcoreapp3.1\T03. Bit Counting.genruntimeconfig.cache
